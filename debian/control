@@ -8,5 +8,5 @@ Vcs-Browser: https://github.com/coala/git-url-parse
 
 Package: python3-giturlparse
 Architecture: all
-Depends: ${misc:Depends}, ${python:Depends}
+Depends: ${misc:Depends}, ${python:Depends}, python3-pbr
 Description: A simple GIT URL parser
