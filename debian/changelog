@@ -1,3 +1,9 @@
+python3-giturlparse (1.2.2-4) stable; urgency=medium
+
+  * debian: add dependency
+
+ -- André Roth <neolynx@gmail.com>  Thu, 21 May 2020 11:57:00 +0000
+
 python3-giturlparse (1.2.2-3) stable; urgency=medium
 
   * debian: add dependency
